@@ -19,4 +19,4 @@ In other words, it's fan art :)
 
 Specifics about .blend file:
 The cubes themselves are the parent object with all of the tags.  So to move/rotate/scale, select the cube itself and not the tags.
-To duplicate a cube:  Ctrl-G -> Children -> select cube -> Shift D -> g -> move cube
+To duplicate a cube:  Ctrl-G -> Children -> shift select cube -> Shift D -> g -> move cube
