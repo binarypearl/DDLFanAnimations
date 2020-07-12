@@ -8,6 +8,7 @@ Current Blender version used:  2.83.2
 
 Status and caveats:
 Vector's cube and 1 Cozmo cube have been modeled.  (Current animation has multiple duplicates of each cube)
+The bottom screw, text on the bottom of cube, lighting up of cubes, and cube internals have not yet been modeled.
 
 The cubes are only partially accurate to real-world size.  The cubes themselves were modeled using the default
 primitive Blender cube, without using any reference image.  Thus, as you get closer into view, more inaccuracies
