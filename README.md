@@ -6,9 +6,13 @@ robots and accessories.
 
 Current Blender version used:  2.83.2
 
+Current "stable" blend file (will develop better mechanism later):  ddl_cube_v6.blend
+
 Status and caveats:
-Vector's cube and 1 Cozmo cube have been modeled.  (Current animation has multiple duplicates of each cube)
+Vector's cube and all 3 Cozmo cubes modeled.
 The bottom screw, text on the bottom of cube, lighting up of cubes, and cube internals have not yet been modeled.
+
+Next is:  Cozmo's charger.
 
 The cubes are only partially accurate to real-world size.  The cubes themselves were modeled using the default
 primitive Blender cube, without using any reference image.  Thus, as you get closer into view, more inaccuracies
