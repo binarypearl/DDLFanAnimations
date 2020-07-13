@@ -6,7 +6,7 @@ robots and accessories.
 
 Current Blender version used:  2.83.2
 
-Current "stable" blend file (will develop better mechanism later):  ddl_cube_v6.blend
+Current "stable" blend file (will develop better mechanism later):  ddl_cube_v7.blend
 
 Status and caveats:
 Vector's cube and all 3 Cozmo cubes modeled.
